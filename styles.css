@@ -1,0 +1,28 @@
+
+
+header {
+    background-color:#482C96;
+    color: pink;
+    padding: 128px 16px;
+}
+
+.section{
+    background-color:#482c96;
+    display: flex;
+    justify-content:
+        space-between;
+     font-size:23px;
+border: 8px double #8282D3;
+    color: pink;
+    
+}
+h1 
+{ font-family: ‘Pacifico’, serif;
+}
+a {
+  color: #D7D7F4;
+    display: flex;
+    justify-content:
+        flex-start;
+   
+}
